@@ -17,6 +17,5 @@ $GLOBALS['tempo'] = ceil((($tempo2 - $tempo1)/60)/60);
 
 }
 
-#uso:
-#tempo ("2006-09-11", "21:00:00", date ("Y-m-d"), date ("H").":00:00");
+#uso: tempo ("2006-09-11", "21:00:00", date ("Y-m-d"), date ("H").":00:00");
 ?>
