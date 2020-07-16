@@ -1,5 +1,6 @@
 <?php
 
+# setando a variável $tempo para "0" inicialmente
 $tempo = 0;
 
 function tempo($data1,$hora1,$data2,$hora2){
